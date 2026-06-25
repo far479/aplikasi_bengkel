@@ -43,6 +43,7 @@ Project ini diajukan untuk memenuhi tugas **UAS Pemrograman**.
 
 Berikut adalah susunan paket (*packages*) dan file sumber utama di dalam proyek NetBeans:
 
+```text
 aplikasi_bengkel/
 ├── Source Packages/
 │   ├── aplikasi_bengkel/
